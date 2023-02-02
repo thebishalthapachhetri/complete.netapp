@@ -1,0 +1,67 @@
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Matts Battle Plan.exe.config
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Matts Battle Plan.exe
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Matts Battle Plan.pdb
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.Properties.Resources.resources
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts Battle Plan.exe
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts Battle Plan.pdb
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Controller.dll
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Controller.pdb
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\View.csproj.CopyComplete
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Model.dll
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Model.pdb
+C:\Users\bisha\source\repos\Matts Battle Plan\bin\Debug\Model.dll.config
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.Login.resources
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.NormalDashboard.resources
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.AdminDashboard.resources
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.SuperUserDashboard.resources
+C:\Users\bisha\source\repos\Matts Battle Plan\obj\Debug\Matts_Battle_Plan.BrowseAndSearch.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Matts Battle Plan.exe.config
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Matts Battle Plan.exe
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Matts Battle Plan.pdb
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Controller.dll
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Model.dll
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Controller.pdb
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Model.pdb
+D:\ENTERPRISE SYSTEM\MAIN\view\bin\Debug\Model.dll.config
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\view.csprojAssemblyReference.cache
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.AdminDashboard.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.BrowseAndSearch.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.Login.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.NormalDashboard.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.Properties.Resources.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts_Battle_Plan.SuperUserDashboard.resources
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\view.csproj.GenerateResource.cache
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\view.csproj.CoreCompileInputs.cache
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\view.csproj.CopyComplete
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts Battle Plan.exe
+D:\ENTERPRISE SYSTEM\MAIN\view\obj\Debug\Matts Battle Plan.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Matts Battle Plan.exe.config
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Matts Battle Plan.exe
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Matts Battle Plan.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Controller.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Model.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Controller.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Model.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\view\bin\Debug\Model.dll.config
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\view.csprojAssemblyReference.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.AdminDashboard.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.BrowseAndSearch.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.Login.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.NormalDashboard.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.Properties.Resources.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\view.csproj.GenerateResource.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\view.csproj.CoreCompileInputs.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\view.csproj.CopyComplete
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts Battle Plan.exe
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts Battle Plan.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.Maintanance.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.reserve.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.borrow.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.report.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.Edit.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.EditAuthor.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.EditCategory.resources
+C:\Users\bisha\Desktop\mujesh\MAIN\view\obj\Debug\Matts_Battle_Plan.EditLanguage.resources

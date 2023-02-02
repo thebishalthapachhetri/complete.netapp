@@ -1,0 +1,30 @@
+C:\Users\bisha\source\repos\Controller\bin\Debug\Controller.dll
+C:\Users\bisha\source\repos\Controller\bin\Debug\Controller.pdb
+C:\Users\bisha\source\repos\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\Controller\obj\Debug\Controller.dll
+C:\Users\bisha\source\repos\Controller\obj\Debug\Controller.pdb
+C:\Users\bisha\source\repos\Controller\bin\Debug\Model.dll
+C:\Users\bisha\source\repos\Controller\bin\Debug\Model.pdb
+C:\Users\bisha\source\repos\Controller\bin\Debug\Model.dll.config
+C:\Users\bisha\source\repos\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\ENTERPRISE SYSTEM\MAIN\controller\bin\Debug\Controller.dll
+D:\ENTERPRISE SYSTEM\MAIN\controller\bin\Debug\Controller.pdb
+D:\ENTERPRISE SYSTEM\MAIN\controller\bin\Debug\Model.dll
+D:\ENTERPRISE SYSTEM\MAIN\controller\bin\Debug\Model.pdb
+D:\ENTERPRISE SYSTEM\MAIN\controller\bin\Debug\Model.dll.config
+D:\ENTERPRISE SYSTEM\MAIN\controller\obj\Debug\controller.csprojAssemblyReference.cache
+D:\ENTERPRISE SYSTEM\MAIN\controller\obj\Debug\controller.csproj.CoreCompileInputs.cache
+D:\ENTERPRISE SYSTEM\MAIN\controller\obj\Debug\controller.csproj.CopyComplete
+D:\ENTERPRISE SYSTEM\MAIN\controller\obj\Debug\Controller.dll
+D:\ENTERPRISE SYSTEM\MAIN\controller\obj\Debug\Controller.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\bin\Debug\Controller.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\bin\Debug\Controller.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\bin\Debug\Model.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\bin\Debug\Model.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\bin\Debug\Model.dll.config
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\obj\Debug\controller.csprojAssemblyReference.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\obj\Debug\controller.csproj.CoreCompileInputs.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\obj\Debug\controller.csproj.CopyComplete
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\obj\Debug\Controller.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\controller\obj\Debug\Controller.pdb

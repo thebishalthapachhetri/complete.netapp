@@ -1,0 +1,21 @@
+C:\Users\bisha\source\repos\Model\bin\Debug\Model.dll.config
+C:\Users\bisha\source\repos\Model\bin\Debug\Model.dll
+C:\Users\bisha\source\repos\Model\bin\Debug\Model.pdb
+C:\Users\bisha\source\repos\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\bisha\source\repos\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\bisha\source\repos\Model\obj\Debug\Model.dll
+C:\Users\bisha\source\repos\Model\obj\Debug\Model.pdb
+D:\ENTERPRISE SYSTEM\MAIN\model\bin\Debug\Model.dll.config
+D:\ENTERPRISE SYSTEM\MAIN\model\bin\Debug\Model.dll
+D:\ENTERPRISE SYSTEM\MAIN\model\bin\Debug\Model.pdb
+D:\ENTERPRISE SYSTEM\MAIN\model\obj\Debug\model.csprojAssemblyReference.cache
+D:\ENTERPRISE SYSTEM\MAIN\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+D:\ENTERPRISE SYSTEM\MAIN\model\obj\Debug\Model.dll
+D:\ENTERPRISE SYSTEM\MAIN\model\obj\Debug\Model.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\model\bin\Debug\Model.dll.config
+C:\Users\bisha\Desktop\mujesh\MAIN\model\bin\Debug\Model.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\model\bin\Debug\Model.pdb
+C:\Users\bisha\Desktop\mujesh\MAIN\model\obj\Debug\model.csprojAssemblyReference.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\bisha\Desktop\mujesh\MAIN\model\obj\Debug\Model.dll
+C:\Users\bisha\Desktop\mujesh\MAIN\model\obj\Debug\Model.pdb
